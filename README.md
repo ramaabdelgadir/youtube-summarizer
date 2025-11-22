@@ -6,8 +6,7 @@ A powerful, AI-driven web application that turns long YouTube videos into concis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-https://github.com/ramaabdelgadir/youtube-summarizer/assets/Screenshot.png
-
+<img width="1854" height="818" alt="Image" src="https://github.com/user-attachments/assets/ae44ba20-4016-4811-add9-20f218e8b4c8" />
 ## 📖 About The Project
 
 Watching long educational videos or tech talks can be time-consuming. This app helps you learn faster by:
@@ -98,17 +97,12 @@ python app.py
 ```
 - Follow the on-screen prompt to paste your YouTube URL.
 
-## ⚠️ Limitations
-
-- Captions Required: The video must have English captions (manual or auto-generated) available on YouTube.
-- Hardware: The BART model is large. On a machine without a GPU, processing long videos may take 1-2 minutes.
-- Accuracy: Auto-generated captions from YouTube may contain phonetic errors.
-
 ## 🎥 Demo
 
 Check out the app in action:
 
-https://github.com/ramaabdelgadir/youtube-summarizer/assets/Demo.mp4
+<video src="https://github.com/user-attachments/assets/8d625005-6283-4a9a-b3f8-814ade705274" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 *👤 Author
